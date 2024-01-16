@@ -1,0 +1,21 @@
+,Sector,Subsector,Category,MSA,County,Year,Population,Total Emissions (MMTCO2e),Emissions per capita (MTCO2e),CO2 Emissions (MMTCO2e),CH4 Emissions (MMTCO2e),CH4 Emissions (MMTCO2e)
+1,Mobile Combustion,Automobile,Gasoline,New Haven-Milford,New Haven,2021,"864,751",1.028899302,1.189821465,1.02248344,0.000561318,0.005854545
+4,Mobile Combustion,Motorcycle,Gasoline,New Haven-Milford,New Haven,2021,"864,751",0.036643172,0.042374247,0.036643172,0,0
+7,Mobile Combustion,Trucks,Diesel,New Haven-Milford,New Haven,2021,"864,751",1.789612608,2.069512042,1.788362278,9.68E-05,0.001153555
+10,Mobile Combustion,Buses,Diesel,New Haven-Milford,New Haven,2021,"864,751",0.020234238,0.023398918,0.020192843,3.20E-06,3.82E-05
+13,Electricity Consumption,Residential Electricity,Electricity,New Haven-Milford,New Haven,2021,"864,751",0.612047787,0.707773437,0.607003771,0.002025709,0.003018307
+16,Electricity Consumption,Commercial&Industrial Electricity,Electricity,New Haven-Milford,New Haven,2021,"864,751",0.702892598,0.812826581,0.697099911,0.00232638,0.003466307
+19,Solid Waste Landfills,Landfill fuel combustion,"Distillate Fuel Oil No. 2, Natural Gas, Propane",New Haven-Milford,New Haven,2021,"864,751",0,0,,,
+22,Solid Waste Landfills,Landfill methane, ,New Haven-Milford,New Haven,2021,"864,751",0,0,,,
+25,Stationary Combustion,Residential fuel oil,"fuel oil, natural gas, propane",New Haven-Milford,New Haven,2020,"855,733",0.76,0.888127488,,,
+28,Stationary Combustion,Residential natural gas,"fuel oil, natural gas, propane",New Haven-Milford,New Haven,2020,"855,733",0.54,0.631037952,,,
+31,Stationary Combustion,Residential propane,"fuel oil, natural gas, propane",New Haven-Milford,New Haven,2020,"855,733",0.06,0.070115328,,,
+34,Stationary Combustion,Commercial fuel,"fuel oil, natural gas, propane",New Haven-Milford,New Haven,2020,"855,733",0.782025085,0.913865756,,,
+37,Stationary Combustion,Industrial fuel,"fuel oil, natural gas, propane",New Haven-Milford,New Haven,2020,"855,733",0.339402,0.396621376,,,
+40,Agriculture & Land management,Organic fertilizer,Organic,New Haven-Milford,New Haven,2017,"862,127",9.88E-05,0.000114627,,,
+43,Agriculture & Land management,Synthetic fertilizer,Synthetic,New Haven-Milford,New Haven,2017,"862,127",0.029055486,0.033702095,,,
+46,Agriculture & Land management,Manure fertilizer,Manure,New Haven-Milford,New Haven,2017,"862,127",8.68E-05,0.00010073,,,
+49,Wastewater treatment,Wastewater, ,New Haven-Milford,New Haven,2021,"864,751",0.092857143,0.107380209,,,
+52,Forestry,Deciduous forest, ,New Haven-Milford,New Haven,2015,"862,224",-0.547125767,-0.634551772,,,
+55,Forestry,Coniferous forest, ,New Haven-Milford,New Haven,2015,"862,224",-0.043034145,-0.049910632,,,
+58,Forestry,Forested wetland, ,New Haven-Milford,New Haven,2015,"862,224",-0.037731317,-0.043760458,,,

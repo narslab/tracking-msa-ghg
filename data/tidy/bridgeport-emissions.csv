@@ -1,0 +1,18 @@
+,Sector,Subsector,Category,MSA,County,Year,Population,Total Emissions (MMTCO2e),Emissions per capita (MTCO2e),CO2 Emissions (MMTCO2e),CH4 Emissions (MMTCO2e),N2O Emissions (MMTCO2e)
+3,Mobile Combustion,Automobile,Gasoline,Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,1.062377716148684,1.0770864081382197,1.0557530939500788,0.0005795819946286,0.0060450402039766
+6,Mobile Combustion,Motorcycle,Gasoline,Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,0.0378354710220779,0.038359305700727,0.0378354710220779,0.0,0.0
+9,Mobile Combustion,Trucks,Diesel,Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,1.8478431773418107,1.8734266922511928,1.8465521642845808,9.992361124066908e-05,0.0011910894459887
+12,Mobile Combustion,Buses,Diesel,Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,0.020892621056045,0.0211818808205301,0.0208498790082884,3.3082080306980624e-06,3.9433839725920905e-05
+15,Electricity Consumption,Residential,Electricity,Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,0.8661696766719452,0.8781618549633244,0.8590313881470457,0.0028667825401202,0.0042715059847792
+18,Electricity Consumption,Commercial/Industrial,Electricity,Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,0.853477542031238,0.8652939968522525,0.8464438520873121,0.0028247750778819,0.004208914866044
+21,Solid Waste Landfills,Landfill fuel combustion,"Distillate Fuel Oil No. 2, Natural Gas, Propane",Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,0.0,0.0,,,
+24,Solid Waste Landfills,Landfill methane, ,Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,0.0,0.0,,,
+27,Stationary Combustion,Residential,"fuel oil, natural gas, propane",Bridgeport-Stamford-Norwalk,Fairfield,2020,972981,1.4921420200321367,1.5335777574609748,1.48901847735524,0.0009423994699315,0.0021811432069654
+30,Stationary Combustion,Commercial,"fuel oil, natural gas, propane",Bridgeport-Stamford-Norwalk,Fairfield,2020,972981,0.7276352181509945,0.7478411378546904,,,
+33,Stationary Combustion,Industrial,"fuel oil, natural gas, propane",Bridgeport-Stamford-Norwalk,Fairfield,2020,972981,0.1099085410864805,0.1129606241915109,,,
+36,Agriculture & Land management,Organic fertilizer,Organic,Bridgeport-Stamford-Norwalk,Fairfield,2017,976389,0.0001073910522082,0.0001099879783653,,,
+39,Agriculture & Land management,Synthetic fertilizer,Synthetic,Bridgeport-Stamford-Norwalk,Fairfield,2017,976389,0.0138407243106211,0.0141754201559225,,,
+42,Agriculture & Land management,Manure fertilizer,Manure,Bridgeport-Stamford-Norwalk,Fairfield,2017,976389,2.223161517824253e-05,2.276921921308262e-05,,,
+45,Wastewater treatment,Wastewater facility, ,Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,0.0766078467278116,0.0776684875944007,,,
+48,Forestry,Deciduous forest, ,Bridgeport-Stamford-Norwalk,Fairfield,2015,969332,-0.637011099791,-0.6571650371503263,,,
+51,Forestry,Coniferous forest, ,Bridgeport-Stamford-Norwalk,Fairfield,2015,969332,-0.0605561441903,-0.0624720366090255,,,
