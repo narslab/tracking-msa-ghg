@@ -1,0 +1,21 @@
+Year,Sector,Subsector,Activity Data Description,Activity Data Unit,Activity Data,GHG Emissions (MMTCO2e),Population,Emissions per Capita (MTCO2e)
+2021,Mobile Combustion,Automobile,Vehicle Miles Traveled,Billion Miles,2.8065889403914404,1.0288993020122097,864751,1.1898214653839194
+2021,Mobile Combustion,Motorcycle,Vehicle Miles Traveled,Billion Miles,0.20867410207238568,0.0366431723239109,864751,0.04237424683395671
+2021,Mobile Combustion,Trucks,Vehicle Miles Traveled,Billion Miles,3.870989848423173,1.7896126081102075,864751,2.0695120423222497
+2021,Mobile Combustion,Buses,Vehicle Miles Traveled,Billion Miles,0.025631659113000794,0.0202342376868546,864751,0.023398917939215565
+2021,Electricity Consumption,Residential,Electricity Consumption,TWh,2.481066159,0.6120477872397366,864751,0.7077734367924832
+2021,Electricity Consumption,Commercial/Industrial,Electricity Consumption,TWh,2.849324964,0.7028925984166559,864751,0.812826580618763
+2021,Solid Waste,Waste Combustion,Waste Combustion Emissions, ,,0.0,864751,0.0
+2021,Solid Waste,Landfill Emissions,Landfills Emissions, ,,0.0,864751,0.0
+2020,Stationary Combustion,Residential,Household Heating Oil Consumption,Million Gallon,74.62329214214132,0.75997032327186,855733,0.8880928084716377
+2020,Stationary Combustion,Residential,Household Propane Consumption,Million Gallon,9.975587357822114,0.0572763311530393,855733,0.06693247911794836
+2020,Stationary Combustion,Residential,Household Natural Gas Consumption,Million cf,9988.50449716128,0.54377418482546,855733,0.6354484223764423
+2020,Stationary Combustion,Commercial,Commercial Building Footprint,Unitless Ratio,0.2499361557084662,0.955882019704558,855733,1.1170330228056624
+2020,Stationary Combustion,Industrial,, ,,0.339402,855733,0.3966213760600561
+2017,Agriculture & Land management,Organic Fertilizer,Organic Fertilizer Land Area,Acres,173.0,9.882261719161833e-05,862127,0.00011462651928499899
+2017,Agriculture & Land management,Synthetic Fertilizer,Synthetic Fertilizer Land Area,Acres,3764.0,0.0290554859482308,862127,0.03370209487492075
+2017,Agriculture & Land management,Manure Fertilizer,Manure Fertilizer Land Area,Acres,1125.0,8.684224679000986e-05,862127,0.00010073022511765652
+2021,Wastewater Treatment,Wastewater Facility,Waste Water Facility,Unitless Ratio,0.0928571428571428,0.0928571428571428,864751,0.10738020870417359
+2015,Forestry,Deciduous Forest,Deciduous Forest Area,Thousand Hectare,66.91305753,-0.5471257670703,862224,-0.6345517720108697
+2015,Forestry,Coniferous Forest,Coniferous Forest Area,Thousand Hectare,5.26304256,-0.043034144665599995,862224,-0.04991063188405797
+2015,Forestry,Forested Wetland,Forested Wetland Area,Thousand Hectare,4.61451081,-0.0377313167231,862224,-0.04376045751811594
