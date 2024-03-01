@@ -17,11 +17,11 @@
 15,Electricity Consumption,Commercial/Industrial,Electricity,New Haven-Milford,New Haven,2021,864751,0.7028925984166559,0.812826580618763,0.6970999110198947,0.002326380480627,0.0034663069161343
 16,Electricity Consumption,Commercial/Industrial,Electricity,Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,1238888,0.9145480177394688,0.7382007233417943,0.907011033016588,0.0030269014951329,0.004510083227748
 17,Electricity Consumption,Commercial/Industrial,Electricity,Bridgeport-Stamford-Norwalk,Fairfield,2021,986344,0.853477542031238,0.8652939968522525,0.8464438520873121,0.0028247750778819,0.004208914866044
-18,Solid Waste Landfills,Landfill fuel combustion,Landfill fuel combustion,New Haven-Milford,New Haven,2021,855733,0.0,0.0,,,
-19,Solid Waste Landfills,Landfill fuel combustion,Landfill fuel combustion,Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,1231523,0.0004758183370641,0.0003863657739758819,,,
-20,Solid Waste Landfills,Landfill fuel combustion,Landfill fuel combustion,Bridgeport-Stamford-Norwalk,Fairfield,2021,972981,0.2966727331594858,0.3049111268971191,,,
+18,Solid Waste Landfills,Solid waste combustion,Landfill fuel combustion,New Haven-Milford,New Haven,2021,855733,0.0,0.0,,,
+19,Solid Waste Landfills,Solid waste combustion,Landfill fuel combustion,Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,1231523,0.3017494993939522,0.24502140795904923,,,
+20,Solid Waste Landfills,Solid waste combustion,Landfill fuel combustion,Bridgeport-Stamford-Norwalk,Fairfield,2021,972981,0.3029234475197796,0.3113354192114539,,,
 21,Solid Waste Landfills,Landfill methane,Landfill methane,New Haven-Milford,New Haven,2021,855733,0.0,0.0,,,
-22,Solid Waste Landfills,Landfill methane,Landfill methane,Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,1231523,0.0961857578750605,0.07810309500923694,,,
+22,Solid Waste Landfills,Landfill methane,Landfill methane,Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,1231523,0.0913239894615663,0.07415532593509523,,,
 23,Solid Waste Landfills,Landfill methane,Landfill methane,Bridgeport-Stamford-Norwalk,Fairfield,2021,972981,0.0,0.0,,,
 24,Stationary Combustion,Residential,"Distillate Fuel Oil No. 2, Natural Gas, Propane",New Haven-Milford,New Haven,2020,855733,1.3610208392503595,1.5904737099660284,1.358260959754937,0.0008322239591222,0.0019276555363001
 25,Stationary Combustion,Residential,"Distillate Fuel Oil No. 2, Natural Gas, Propane",Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2020,1231523,2.0643536530407496,1.6762607381597823,2.059984813181376,0.0013182451712706,0.0030505946881026
