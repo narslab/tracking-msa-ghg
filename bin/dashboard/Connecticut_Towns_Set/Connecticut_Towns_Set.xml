@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp gco:nilReason="missing"/>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation gco:nilReason="missing"/>
+            <abstract>
+                <gco:CharacterString>Connecticut Town Line includes the line features of a layer named Town. Town is a 1:24,000-scale, polygon and line feature-based layer that includes state, county and town (municipal) boundary features depicted on the U.S. Geological Survey (USGS) 7.5 minute topographic quadrangle maps for the State of Connecticut. This layer only includes information for Connecticut. Line features include State, county, and town (municipal) boundaries. Polygon features depict the geographic areas for individual towns (municipalities). A town may be represented by more than one polygon feature. For example, in addition to representing the portion of a town on the mainland, a polygon feature may also define an island along the coast of Long Island Sound. The layer is based on information from USGS topographic quadrangle maps published between 1969 and 1984 and latitude and longitude coordinates that define the boundary between the states of Connecticut and New York in Long Island Sound. Attribute information is comprised of codes to classify and cartographically symbolize political boundaries by type and identify the geographic areas encompassed by individual towns. Polygon feature attributes include state, county, and town codes and names. Feature length and geographic area are encoded for linear and polygon features, respectively. This layer was originally published in 1994. With the exception of the Middletown-Portand town boundary, the 2005 edition, includes the same features originally published in 1994. The Middletown-Portand was corrected and changed from its location, as depicted on the USGS topographic quadrangle maps, from along the banks of the Connecticut River in Portand to the middle of the Connecticut River south of Wilcox Island to the Pecausett Meadows area in Portland. Some attribute information has been slightly modified and made easier to use.
+
+Connecticut Town Polygon includes the polygon features of a layer named Town. Town is a 1:24,000-scale, polygon and line feature-based layer that includes state, county and town (municipal) boundary features depicted on the U.S. Geological Survey (USGS) 7.5 minute topographic quadrangle maps for the State of Connecticut. This layer only includes information for Connecticut. Line features include State, county, and town (municipal) boundaries. Polygon features depict the geographic areas for individual towns (municipalities). A town may be represented by more than one polygon feature. For example, in addition to representing the portion of a town on the mainland, a polygon feature may also define an island along the coast of Long Island Sound. The layer is based on information from USGS topographic quadrangle maps published between 1969 and 1984 and latitude and longitude coordinates that define the boundary between the states of Connecticut and New York in Long Island Sound. Attribute information is comprised of codes to classify and cartographically symbolize political boundaries by type and identify the geographic areas encompassed by individual towns. Polygon feature attributes include state, county, and town codes and names. Feature length and geographic area are encoded for linear and polygon features, respectively. This layer was originally published in 1994. With the exception of the Middletown-Portand town boundary, the 2005 edition, includes the same features originally published in 1994. The Middletown-Portand was corrected and changed from its location, as depicted on the USGS topographic quadrangle maps, from along the banks of the Connecticut River in Portand to the middle of the Connecticut River south of Wilcox Island to the Pecausett Meadows area in Portland. Some attribute information has been slightly modified and made easier to use.</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Connecticut Towns Set includes: Town Lines, Town Polygon</gco:CharacterString>
+            </purpose>
+            <credit>
+                <gco:CharacterString>CTDEEP</gco:CharacterString>
+            </credit>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Connecticut Town Line</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Connecticut Town Poly</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Line Poly</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Political</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>political boundaries</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>CT</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>open data</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>open</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>data</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>towns</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>set</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>town</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>DEEP</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>CTDEEP</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>CC0</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+        </MD_DataIdentification>
+    </identificationInfo>
+</MD_Metadata>

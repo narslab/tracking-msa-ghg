@@ -2,7 +2,6 @@ cache
 *.graphml
 
 data/*
-
 /data/tidy/connecticut_5_county_building.csv 
 /data/tidy/residence_clean.xlsx
 .ipynb_checkpoints
