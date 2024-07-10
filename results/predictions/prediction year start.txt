@@ -1,0 +1,8 @@
+mobile:2023
+electricity:2023
+solidwaste:2023
+stationary combustion (residential):2022
+stationary combustion (commercial):2022
+stationary combustion (industrial):2023
+agriculture:2022
+wastewater:2022

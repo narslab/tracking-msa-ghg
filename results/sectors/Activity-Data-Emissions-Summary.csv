@@ -1,0 +1,61 @@
+MSA,County,Year,Sector,Subsector,Activity Data Description,Activity Data Unit,Activity Data,GHG Emissions (MMTCO2e),Population,Emissions per Capita (MTCO2e)
+New Haven-Milford,New Haven,2021,Mobile Combustion,Automobile,Vehicle Miles Traveled,Billion Miles,2.8065889403914404,1.0288993020122097,864751,1.1898214653839194
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,Mobile Combustion,Automobile,Vehicle Miles Traveled,Billion Miles,4.251132553869635,1.558470944743266,1238888,1.25795951267852
+Bridgeport-Stamford-Norwalk,Fairfield,2021,Mobile Combustion,Automobile,Vehicle Miles Traveled,Billion Miles,2.8979099731431552,1.062377716148684,986344,1.0770864081382197
+New Haven-Milford,New Haven,2021,Mobile Combustion,Motorcycle,Vehicle Miles Traveled,Billion Miles,0.20867410207238568,0.0366431723239109,864751,0.04237424683395671
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,Mobile Combustion,Motorcycle,Vehicle Miles Traveled,Billion Miles,0.3160780888510549,0.0555033124022452,1238888,0.04480091211009002
+Bridgeport-Stamford-Norwalk,Fairfield,2021,Mobile Combustion,Motorcycle,Vehicle Miles Traveled,Billion Miles,0.21546395798449836,0.0378354710220779,986344,0.03835930570072702
+New Haven-Milford,New Haven,2021,Mobile Combustion,Trucks,Vehicle Miles Traveled,Billion Miles,3.870989848423173,1.7896126081102075,864751,2.0695120423222497
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,Mobile Combustion,Trucks,Vehicle Miles Traveled,Billion Miles,5.863377683671579,2.7107212986066136,1238888,2.188027730195638
+Bridgeport-Stamford-Norwalk,Fairfield,2021,Mobile Combustion,Trucks,Vehicle Miles Traveled,Billion Miles,3.9969444496267617,1.8478431773418107,986344,1.8734266922511928
+New Haven-Milford,New Haven,2021,Mobile Combustion,Buses,Vehicle Miles Traveled,Billion Miles,0.025631659113000794,0.0202342376868546,864751,0.023398917939215565
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,Mobile Combustion,Buses,Vehicle Miles Traveled,Billion Miles,0.03882420360773231,0.0306487442088069,1238888,0.024738914420679593
+Bridgeport-Stamford-Norwalk,Fairfield,2021,Mobile Combustion,Buses,Vehicle Miles Traveled,Billion Miles,0.026465664245584504,0.020892621056045,986344,0.021181880820530158
+New Haven-Milford,New Haven,2021,Electricity Consumption,Residential,Electricity Consumption,TWh,2.481066159,0.6120477872397366,864751,0.7077734367924832
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,Electricity Consumption,Residential,Electricity Consumption,TWh,3.549718589,0.875670888436478,1238888,0.7068200583397999
+Bridgeport-Stamford-Norwalk,Fairfield,2021,Electricity Consumption,Residential,Electricity Consumption,TWh,3.511203402,0.8661696766719452,986344,0.8781618549633244
+New Haven-Milford,New Haven,2021,Electricity Consumption,Commercial/Industrial,Electricity Consumption,TWh,2.849324964,0.7028925984166559,864751,0.812826580618763
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,Electricity Consumption,Commercial/Industrial,Electricity Consumption,TWh,3.707315319,0.9145480177394688,1238888,0.7382007233417943
+Bridgeport-Stamford-Norwalk,Fairfield,2021,Electricity Consumption,Commercial/Industrial,Electricity Consumption,TWh,3.459753129,0.853477542031238,986344,0.8652939968522525
+New Haven-Milford,New Haven,2021,Solid Waste,Waste Combustion,Waste Combustion Emissions, ,,0.0,864751,0.0
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,Solid Waste,Waste Combustion,Waste Combustion Emissions, ,,0.2955230090231463,1238888,0.23853892282687886
+Bridgeport-Stamford-Norwalk,Fairfield,2021,Solid Waste,Waste Combustion,Waste Combustion Emissions, ,,0.2966727331594858,986344,0.3007801873986011
+New Haven-Milford,New Haven,2021,Solid Waste,Landfill Emissions,Landfills Emissions, ,,0.0,864751,0.0
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,Solid Waste,Landfill Emissions,Landfills Emissions, ,,0.0894395523965569,1238888,0.07219341247679928
+Bridgeport-Stamford-Norwalk,Fairfield,2021,Solid Waste,Landfill Emissions,Landfills Emissions, ,,0.0,986344,0.0
+New Haven-Milford,New Haven,2020,Stationary Combustion,Residential,Household Heating Oil Consumption,Million Gallon,74.62329214214132,0.75997032327186,855733,0.8880928084716377
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2020,Stationary Combustion,Residential,Household Heating Oil Consumption,Million Gallon,115.88298874445694,1.1801627868425364,1231523,0.9582953682899438
+Bridgeport-Stamford-Norwalk,Fairfield,2020,Stationary Combustion,Residential,Household Heating Oil Consumption,Million Gallon,83.09512447061253,0.8462482261699205,972981,0.8697479459207532
+New Haven-Milford,New Haven,2020,Stationary Combustion,Residential,Household Propane Consumption,Million Gallon,9.975587357822114,0.0572763311530393,855733,0.06693247911794836
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2020,Stationary Combustion,Residential,Household Propane Consumption,Million Gallon,19.32511653925042,0.1109580553775871,1231523,0.09009824045315198
+Bridgeport-Stamford-Norwalk,Fairfield,2020,Stationary Combustion,Residential,Household Propane Consumption,Million Gallon,13.433250978929705,0.0771290254831717,972981,0.07927084442879327
+New Haven-Milford,New Haven,2020,Stationary Combustion,Residential,Household Natural Gas Consumption,Million cf,9988.50449716128,0.54377418482546,855733,0.6354484223764423
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2020,Stationary Combustion,Residential,Household Natural Gas Consumption,Million cf,14203.394761583872,0.773232810820626,1231523,0.6278671294166864
+Bridgeport-Stamford-Norwalk,Fairfield,2020,Stationary Combustion,Residential,Household Natural Gas Consumption,Million cf,10447.552688814194,0.5687647683790448,972981,0.5845589671114284
+New Haven-Milford,New Haven,2020,Stationary Combustion,Commercial,Commercial Building Footprint,Unitless Ratio,0.2499361557084662,0.955882019704558,855733,1.1170330228056624
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2020,Stationary Combustion,Commercial,Commercial Building Footprint,Unitless Ratio,0.4184786058114842,1.6004734240724312,1231523,1.2995887401797865
+Bridgeport-Stamford-Norwalk,Fairfield,2020,Stationary Combustion,Commercial,Commercial Building Footprint,Unitless Ratio,0.1902560623945624,0.7276352181509945,972981,0.7478411378546904
+New Haven-Milford,New Haven,2020,Stationary Combustion,Industrial,, ,,0.339402,855733,0.3966213760600561
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2020,Stationary Combustion,Industrial,, ,,0.3478089094223801,1231523,0.2824217732209468
+Bridgeport-Stamford-Norwalk,Fairfield,2020,Stationary Combustion,Industrial,, ,,0.1099085410864805,972981,0.11296062419151094
+New Haven-Milford,New Haven,2017,Agriculture & Land management,Organic Fertilizer,Organic Fertilizer Land Area,Acres,173.0,9.882261719161833e-05,862127,0.00011462651928499899
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2017,Agriculture & Land management,Organic Fertilizer,Organic Fertilizer Land Area,Acres,604.4730805621581,0.0003452925540059,1239055,0.00027867411374466833
+Bridgeport-Stamford-Norwalk,Fairfield,2017,Agriculture & Land management,Organic Fertilizer,Organic Fertilizer Land Area,Acres,193.87678133423108,0.0001107480401395,976389,0.00011342614484544583
+New Haven-Milford,New Haven,2017,Agriculture & Land management,Synthetic Fertilizer,Synthetic Fertilizer Land Area,Acres,3764.0,0.0290554859482308,862127,0.03370209487492075
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2017,Agriculture & Land management,Synthetic Fertilizer,Synthetic Fertilizer Land Area,Acres,21949.928737913368,0.1694383225316446,1239055,0.1367480237210169
+Bridgeport-Stamford-Norwalk,Fairfield,2017,Agriculture & Land management,Synthetic Fertilizer,Synthetic Fertilizer Land Area,Acres,1849.04823900147,0.014273378088711,976389,0.014618536350482237
+New Haven-Milford,New Haven,2017,Agriculture & Land management,Manure Fertilizer,Manure Fertilizer Land Area,Acres,1125.0,8.684224679000986e-05,862127,0.00010073022511765652
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2017,Agriculture & Land management,Manure Fertilizer,Manure Fertilizer Land Area,Acres,8441.180670620543,0.0006516009733307,1239055,0.0005258854315027985
+Bridgeport-Stamford-Norwalk,Fairfield,2017,Agriculture & Land management,Manure Fertilizer,Manure Fertilizer Land Area,Acres,297.00272885243913,2.292656380116436e-05,976389,2.3480973055989322e-05
+New Haven-Milford,New Haven,2021,Wastewater Treatment,Wastewater Facility,Waste Water Facility,Unitless Ratio,0.238095238095238,0.0928571428571428,864751,0.10738020870417359
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2021,Wastewater Treatment,Wastewater Facility,Waste Water Facility,Unitless Ratio,0.5834682244808476,0.2323470028280534,1238888,0.18754480052115557
+Bridgeport-Stamford-Norwalk,Fairfield,2021,Wastewater Treatment,Wastewater Facility,Waste Water Facility,Unitless Ratio,0.1964303762251581,0.0790025678113523,986344,0.08009636375478768
+New Haven-Milford,New Haven,2015,Forestry,Deciduous Forest,Deciduous Forest Area,Thousand Hectare,66.91305753,-0.5471257670703,862224,-0.6345517720108697
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2015,Forestry,Deciduous Forest,Deciduous Forest Area,Thousand Hectare,192.04617611999998,-1.5702975667412002,1240217,-1.2661474296362654
+Bridgeport-Stamford-Norwalk,Fairfield,2015,Forestry,Deciduous Forest,Deciduous Forest Area,Thousand Hectare,77.9059641,-0.637011099791,969332,-0.6571650371503263
+New Haven-Milford,New Haven,2015,Forestry,Coniferous Forest,Coniferous Forest Area,Thousand Hectare,5.26304256,-0.043034144665599995,862224,-0.04991063188405797
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2015,Forestry,Coniferous Forest,Coniferous Forest Area,Thousand Hectare,35.299674210000006,-0.28863366945710006,1240217,-0.23272836080871334
+Bridgeport-Stamford-Norwalk,Fairfield,2015,Forestry,Coniferous Forest,Coniferous Forest Area,Thousand Hectare,7.40596953,-0.060556144190300004,969332,-0.062472036609025595
+New Haven-Milford,New Haven,2015,Forestry,Forested Wetland,Forested Wetland Area,Thousand Hectare,4.61451081,-0.0377313167231,862224,-0.04376045751811594
+Hartford-east Hartford-Middletown,"Hartford, Middlesex, Tolland",2015,Forestry,Forested Wetland,Forested Wetland Area,Thousand Hectare,15.2648793,-0.124815829743,1240217,-0.1006403151569443
+Bridgeport-Stamford-Norwalk,Fairfield,2015,Forestry,Forested Wetland,Forested Wetland Area,Thousand Hectare,4.85093655,-0.039664491190499994,969332,-0.040919407582231886
