@@ -23,7 +23,7 @@ In this reasearch, we developed a comprehensive framework for estimating regiona
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6a8848b0-ae77-40b5-b266-558457264d30" alt="scenario-box" width="400"/>
+  <img src="https://github.com/user-attachments/assets/6a8848b0-ae77-40b5-b266-558457264d30" alt="scenario-box" width="700"/>
   <img src="https://github.com/user-attachments/assets/b8613354-3da4-43f8-b304-1ad94686278a" alt="msa" width="400"/>
 </p>
 
